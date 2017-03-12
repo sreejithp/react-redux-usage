@@ -1,2 +1,1 @@
-# react-redux-usage
-A personal usage workspace of react-redux
+A personal workspace for react-redux
